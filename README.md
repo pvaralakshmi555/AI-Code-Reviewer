@@ -14,13 +14,16 @@ An AI-powered code reviewer built with Streamlit and Python that analyzes your c
 
 ## ⚡ Installation & Setup
 Step 1: Clone the repository
+
         git clone https://github.com/pvaralakshmi555/AI-Code-Reviewer.git
         cd AI-Code-Reviewer
 
 Step 2: Install the dependencies
+
         pip install -r requirements.txt
 
 Step 3: Run the Streamlit app
+
         streamlit run app.py
 
 ## 🛠 Requirements
