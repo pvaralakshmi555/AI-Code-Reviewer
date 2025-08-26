@@ -23,7 +23,7 @@ chat_template = ChatPromptTemplate.from_messages([
 ])
 
 chat_model = ChatGoogleGenerativeAI(
-    api_key="AIzaSyBXxObUS6X-lwjpMB1rcGw7wT2LYECLhyI",
+    api_key=Your_GOOGle_API_KEY,
     model="gemini-2.0-flash"
 )
 
